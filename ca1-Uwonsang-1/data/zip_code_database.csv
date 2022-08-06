@@ -1,0 +1,138 @@
+zip,primary_city,acceptable_cities,unacceptable_cities,state,county,area_codes,latitude,longitude,irs_estimated_population
+98001,Auburn,"Algona, Federal Way",,WA,King County,253,47.3,-122.26,33430
+98002,Auburn,,,WA,King County,253,47.31,-122.22,32480
+98003,Federal Way,Auburn,,WA,King County,253,47.3,-122.31,43690
+98004,Bellevue,"Beaux Arts, Clyde Hill, Hunts Point, Yarrow Point",Beaux Arts Village,WA,King County,425,47.61,-122.21,33200
+98005,Bellevue,,,WA,King County,425,47.62,-122.16,19280
+98006,Bellevue,,"Eastgate, Newport Hills",WA,King County,425,47.55,-122.14,39510
+98007,Bellevue,,Eastgate,WA,King County,425,47.62,-122.14,25680
+98008,Bellevue,,,WA,King County,425,47.6,-122.11,25020
+98009,Bellevue,,,WA,King County,425,47.61,-122.2,1399
+98010,Black Diamond,,Morganville,WA,King County,360,47.32,-121.99,5520
+98011,Bothell,,"Inglewood, Queensgate",WA,King County,425,47.74,-122.2,24710
+98012,Bothell,Mill Creek,,WA,Snohomish County,425,47.84,-122.19,68080
+98013,Burton,Vashon,,WA,King County,,47.38,-122.45,380
+98014,Carnation,,Lake Joy,WA,King County,425,47.64,-121.89,7320
+98015,Bellevue,,,WA,King County,425,47.61,-122.2,886
+98019,Duvall,,,WA,King County,425,47.73,-121.93,12300
+98020,Edmonds,Woodway,,WA,Snohomish County,425,47.8,-122.37,19800
+98021,Bothell,,"Kennard Corner, Queensborough, Thrashers Corner",WA,Snohomish County,425,47.79,-122.2,31910
+98022,Enumclaw,,"Crystal Mountain, Cumberland, Greenwater, Krain, Osceola, Wabash",WA,King County,360,47.1,-121.6,21060
+98023,Federal Way,Auburn,,WA,King County,253,47.3,-122.37,46360
+98024,Fall City,,"Lake Alice, Spring Glen",WA,King County,425,47.58,-121.88,4950
+98025,Hobart,,,WA,King County,,47.43,-121.89,644
+98026,Edmonds,,,WA,Snohomish County,425,47.84,-122.33,35390
+98027,Issaquah,,"Coal Creek, Pine Lake",WA,King County,425,47.5,-122,28210
+98028,Kenmore,Bothell,,WA,King County,425,47.75,-122.24,22320
+98029,Issaquah,Sammamish,,WA,King County,425,47.55,-122,28840
+98030,Kent,,,WA,King County,253,47.36,-122.19,34100
+98031,Kent,,,WA,King County,"425,253",47.4,-122.19,39680
+98032,Kent,,"Midway, Woodmont Beach",WA,King County,"253,425",47.39,-122.26,33210
+98033,Kirkland,Redmond,"Houghton, Juanita, Totem Lake",WA,King County,"206,425",47.67,-122.18,37760
+98034,Kirkland,,"Juanita, Kingsgate, Totem Lake",WA,King County,"425,206",47.72,-122.2,46120
+98035,Kent,,,WA,King County,253,47.38,-122.19,884
+98036,Lynnwood,Brier,,WA,Snohomish County,425,47.8,-122.28,37330
+98037,Lynnwood,,,WA,Snohomish County,425,47.84,-122.29,26100
+98038,Maple Valley,,"Four Corners, Wilderness Village",WA,King County,425,47.4,-121.99,35380
+98039,Medina,,,WA,King County,,47.62,-122.23,3040
+98040,Mercer Island,,,WA,King County,,47.56,-122.22,25090
+98041,Bothell,,,WA,King County,425,47.75,-122.21,1101
+98042,Kent,Covington,Lake Sawyer,WA,King County,"253,425",47.36,-122.1,46620
+98043,Mountlake Terrace,Mountlake Ter,,WA,Snohomish County,425,47.79,-122.3,18710
+98045,North Bend,,"Cedar Falls, Denny Creek",WA,King County,425,47.39,-121.61,15130
+98046,Lynnwood,,,WA,Snohomish County,425,47.83,-122.3,1459
+98047,Pacific,Auburn,,WA,King County,253,47.26,-122.25,6490
+98050,Preston,,,WA,King County,,47.55,-121.94,597
+98051,Ravensdale,,"Kanaskat, Palmer",WA,King County,,47.34,-121.92,3780
+98052,Redmond,,"Adelaide, Ames Lake, Avondale, Earlmount",WA,King County,"206,425",47.68,-122.12,68230
+98053,Redmond,,,WA,King County,"206,425",47.66,-122.01,21990
+98054,Redondo,,,WA,King County,206,47.34,-122.32,161
+98055,Renton,,,WA,King County,425,47.46,-122.21,21280
+98056,Renton,Newcastle,"Hazelwood, Highlands, Kennydale",WA,King County,425,47.51,-122.18,32850
+98057,Renton,,,WA,King County,425,47.47,-122.22,11780
+98058,Renton,,"Cascade, Fairwood",WA,King County,425,47.43,-122.11,40840
+98059,Renton,Newcastle,,WA,King County,425,47.49,-122.1,38950
+98061,Rollingbay,,Manitou Beach,WA,Kitsap County,,47.65,-122.55,322
+98062,Seahurst,Burien,,WA,King County,206,47.46,-122.36,482
+98063,Federal Way,Auburn,,WA,King County,253,47.3,-122.31,1064
+98064,Kent,,,WA,King County,253,47.39,-122.23,1064
+98065,Snoqualmie,,,WA,King County,,47.53,-121.8,15950
+98068,Snoqualmie Pass,Snoqualmie Ps,"Alpental, Hyak",WA,Kittitas County,509,47.42,-121.37,236
+98070,Vashon,,"Dockton, Vashon Island",WA,King County,206,47.42,-122.45,9930
+98071,Auburn,,,WA,King County,253,47.25,-122.11,1338
+98072,Woodinville,,Cottage Lake,WA,King County,425,47.75,-122.09,25000
+98073,Redmond,,,WA,King County,425,47.67,-122.11,1169
+98074,Sammamish,Redmond,,WA,King County,"206,425",47.62,-122.02,30180
+98075,Sammamish,Issaquah,,WA,King County,425,47.58,-122.03,25550
+98077,Woodinville,,,WA,King County,425,47.75,-122.04,13370
+98082,Mill Creek,Bothell,,WA,,,47.85,-122.22,1402
+98083,Kirkland,,,WA,King County,425,47.68,-122.19,1060
+98087,Lynnwood,,,WA,Snohomish County,425,47.85,-122.28,35010
+98089,Kent,,Midway,WA,King County,253,47.38,-122.23,556
+98092,Auburn,,,WA,King County,253,47.28,-122.1,45770
+98093,Federal Way,Auburn,,WA,King County,253,47.3,-122.35,1902
+98101,Seattle,,Times Square,WA,King County,"206,253,360,425",47.61,-122.33,12260
+98102,Seattle,,"Broadway, Capitol Hill",WA,King County,"206,360,425",47.63,-122.32,20920
+98103,Seattle,,"Greenwood, Wallingford",WA,King County,206,47.67,-122.34,45490
+98104,Seattle,,"International, Pioneer Square",WA,King County,"206,253,360,425",47.6,-122.32,9520
+98105,Seattle,,University,WA,King County,206,47.66,-122.29,25850
+98106,Seattle,,White Center,WA,King County,206,47.54,-122.35,22480
+98107,Seattle,,Ballard,WA,King County,206,47.67,-122.38,24540
+98108,Seattle,Tukwila,,WA,King County,206,47.54,-122.31,22250
+98109,Seattle,,Queen Anne,WA,King County,"425,206",47.63,-122.34,26560
+98110,Bainbridge Island,"Bainbridge Is, Seattle",,WA,Kitsap County,206,47.64,-122.53,23800
+98111,Seattle,,,WA,King County,206,47.61,-122.33,1613
+98112,Seattle,,Madison Park,WA,King County,206,47.63,-122.29,20180
+98113,Seattle,,,WA,King County,206,47.61,-122.33,244
+98114,Seattle,,,WA,King County,206,47.58,-122.31,383
+98115,Seattle,,"Seattle Naval Support Activi, Wedgwood",WA,King County,206,47.68,-122.28,48640
+98116,Seattle,,West Seattle,WA,King County,206,47.57,-122.4,25620
+98117,Seattle,,Crown Hill,WA,King County,206,47.68,-122.38,33340
+98118,Seattle,,Columbia,WA,King County,206,47.54,-122.27,44400
+98119,Seattle,,Interbay,WA,King County,206,47.63,-122.37,20160
+98121,Seattle,,,WA,King County,"206,360,425",47.62,-122.35,15020
+98122,Seattle,,East Union,WA,King County,206,47.61,-122.3,31730
+98124,Seattle,,,WA,King County,206,47.57,-122.33,1410
+98125,Seattle,,"Lake City, Northgate",WA,King County,206,47.71,-122.3,35600
+98126,Seattle,,Westwood Village,WA,King County,206,47.55,-122.37,20680
+98127,Seattle,,,WA,King County,206,47.61,-122.33,702
+98129,Seattle,,Reg Lib Handicapped,WA,King County,206,47.61,-122.33,0
+98131,Seattle,,,WA,King County,206,47.46,-122.29,0
+98132,Seattle,,,WA,King County,206,47.46,-122.29,0
+98133,Seattle,Shoreline,"Bitter Lake, Richmond Highlands",WA,King County,"206,425",47.73,-122.34,41770
+98134,Seattle,,,WA,King County,206,47.57,-122.33,650
+98136,Seattle,,Westwood,WA,King County,206,47.53,-122.39,15190
+98138,Seattle,Tukwila,,WA,King County,206,47.47,-122.26,627
+98139,Seattle,,,WA,King County,206,47.61,-122.33,370
+98141,Seattle,,,WA,King County,206,47.61,-122.33,66
+98144,Seattle,,Beacon Hill,WA,King County,206,47.58,-122.3,26260
+98145,Seattle,,,WA,King County,206,47.65,-122.31,782
+98146,Seattle,Burien,"Shorewood, White Center",WA,King County,"253,206",47.49,-122.36,26250
+98148,Seattle,"Burien, Des Moines, Normandy Park, Seatac",,WA,King County,"206,253",47.44,-122.32,9910
+98151,Seattle,Goodwill Games 1990,,WA,King County,206,47.6,-122.33,0
+98154,Seattle,,,WA,King County,"425,206,253,360",47.61,-122.33,33
+98155,Seattle,"Lake Forest Park, Lk Forest Pk, Shoreline","Forest Park, Lk Forest Park, North City",WA,King County,"206,425",47.75,-122.29,32440
+98158,Seattle,Seatac,Seatac Airport,WA,King County,206,47.44,-122.31,0
+98160,Seattle,,Richmond Beach,WA,King County,206,47.77,-122.38,93
+98161,Seattle,,,WA,King County,"206,425",47.6,-122.33,0
+98164,Seattle,,,WA,King County,"206,425",47.61,-122.33,150
+98165,Seattle,,,WA,King County,206,47.61,-122.33,651
+98166,Seattle,"Burien, Normandy Park",,WA,King County,"253,206",47.44,-122.35,20490
+98168,Seattle,"Burien, Seatac, Tukwila",,WA,King County,"253,425,206",47.48,-122.29,33550
+98170,Seattle,,Amazon.Com,WA,King County,206,47.61,-122.33,0
+98171,Seattle,,,WA,King County,206,47.6,-122.33,0
+98174,Seattle,,,WA,King County,"206,425",47.6,-122.34,0
+98175,Seattle,,,WA,King County,206,47.61,-122.33,395
+98177,Seattle,Shoreline,"Bitter Lake, Richmond Beach, The Highlands",WA,King County,"425,206",47.73,-122.37,19860
+98178,Seattle,Tukwila,"Bryn Mawr, Skyway",WA,King County,"206,253,425",47.49,-122.25,23900
+98181,Seattle,,Macys,WA,King County,206,47.61,-122.33,0
+98184,Seattle,,Bank Of America,WA,King County,206,47.6,-122.33,0
+98185,Seattle,,Safeco Plaza,WA,King County,206,47.66,-122.29,0
+98188,Seattle,"Seatac, Tukwila","Duwamish, Mcmicken Heights, Riverton",WA,King County,"425,206,253",47.44,-122.28,24250
+98189,Seattle,,Diagnos Techs Inc,WA,,206,47.42,-122.25,0
+98190,Seattle,,Capital One,WA,King County,206,47.5,-122.29,0
+98191,Seattle,,Qwest,WA,King County,206,47.61,-122.33,0
+98194,Seattle,,,WA,King County,206,47.61,-122.33,299
+98195,Seattle,,Univ Of Washington,WA,King County,206,47.65,-122.31,192
+98198,Seattle,"Des Moines, Normandy Park, Seatac",Redondo Beach,WA,King County,"206,253",47.38,-122.31,34090
+98199,Seattle,,"Fort Lawton, Magnolia",WA,King County,206,47.65,-122.4,20660
